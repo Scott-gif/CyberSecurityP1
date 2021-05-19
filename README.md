@@ -4,7 +4,7 @@ A repository of Cyber Security Sydney Bootcamp activities. This is a collection 
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![TODO: Update the path with the name of your diagram](Images/Project-1-Network-Diagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -127,5 +127,3 @@ SSH into the control node and follow the steps below:
 - Copy the filebeat-playbook.yml file to /etc/ansible/roles/ directory.
 - Update the hosts file to include the attribute, such as elk, then include the destination ip of the ELK server.
 - Run the playbook, and navigate to http://[your_elk_server_ip]:5601/app/kibana, then go to Filebeat and Metric to check that the installation worked as expected.
-
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
