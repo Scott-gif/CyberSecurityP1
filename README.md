@@ -1,2 +1,1 @@
-# CyberSecurityP1
-Cyber Security Project 1
+A repository of Cyber Security Sydney Bootcamp activities. This is a collection of Linux Scripts and Ansible Scripts from my CyberClass.
