@@ -43,9 +43,8 @@ Step 4: Lynis Auditing
 3.	Command to run an audit: sudo lynis audit system
 4.	Provide a report from the Lynis output on what can be done to harden the system.
 ○	Screenshot of report output:
-
-Inline-style: 
-![alt text] (https://github.com/Scott-gif/CyberSecurityP1/blob/dab0f310c60ee855e1567c907372b6fcb3fadf42/Diagrams/Linuxpng.png)
+ 
+![alt text] (https://github.com/Scott-gif/CyberSecurityP1/blob/dab0f310c60ee855e1567c907372b6fcb3fadf42/Diagrams/Linuxpng.png "Logo Title Text 1")
 
 
 
