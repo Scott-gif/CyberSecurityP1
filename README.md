@@ -93,11 +93,14 @@ The playbook implements the following tasks:
 - _In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Docker; download image; etc._
 
 Install Docker: Installs the core docker code to the remote server.
+
 Install Python3_pip: Pip is an installation module that allows for additional docker modules to be installed easier.
+
 Docker Module: Tells the previous PIP module to install the necessary docker component modules.
+
 Increase Memory/Use More Memory: A common issue with the ELK Docker image is to little memory. This help fix the issue to allow the server to launch.
+
 Download and Launch ELK Container: This downloads the ELK docker container and initializes it with the specified ports being published.
-- 
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
